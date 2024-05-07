@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://joey-simon.github.io/sitemap.xml

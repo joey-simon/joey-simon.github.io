@@ -1,0 +1,15 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Joey Simon"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+
+[author]
+name = "Joey Simon"
+links = [ { github = "https://github.com/joey-simon" } ]
+headline = "Software Developer"
